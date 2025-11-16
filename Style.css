@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 20px;
+}
